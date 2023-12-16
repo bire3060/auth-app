@@ -1,0 +1,36 @@
+/* div{
+  background-color: red;
+} */
+
+.App {
+  text-align: center;
+  margin: 50px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input {
+  margin-left: 10px;
+}
+
+button {
+  margin-left: 10px;
+}
+div {
+  margin-bottom: 20px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 5px;
+}
